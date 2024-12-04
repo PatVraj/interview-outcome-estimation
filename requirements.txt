@@ -1,0 +1,6 @@
+vaderSentiment
+pandas
+numpy
+scikit-learn
+nltk
+gensim
